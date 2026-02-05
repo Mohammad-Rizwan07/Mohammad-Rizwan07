@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mohammad Rizwan</h1>
-<h3 align="center">Genarativr AI Developer | Byilding AI solution for real world use cases.</h3>
+<h3 align="center">Genarative AI Developer | Byilding AI solution for real world use cases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-rizwan07&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-rizwan07" /> </p>
 
