@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Generative AI Developer | Building AI solutions for real-world use cases
+  Generative AI Developer | LLMs • RAG • Agentic AI • Production Systems
 </h3>
 
 <p align="left">
