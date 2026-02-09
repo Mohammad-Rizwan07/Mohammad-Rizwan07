@@ -7,19 +7,30 @@
   Generative AI Developer | LLMs • RAG • Agentic AI • Production Systems
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-rizwan07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About Me
 
-- 🔭 Building **RAG-based chatbots** with vector search and retrieval optimization  
-- 💬 Focus areas: **LLMs, RAG pipelines, Agentic AI, Vector Databases**
-- 📫 Reach me at: **mdrizwan01072004@gmail.com**
-- 📄 Experience: <a href="https://linkedin.com/in/mohammad-rizwann">LinkedIn</a>
+- 🔭 Building **RAG-based chatbots** with optimized retrieval and semantic search  
+- 👨‍💻 All projects: <a href="https://github.com/Mohammad-Rizwan07">github.com/Mohammad-Rizwan07</a>  
+- 💬 Focus areas: **LLMs, RAG pipelines, Agentic AI, Vector Databases**  
+- 📫 Reach me at: **mdrizwan01072004@gmail.com**  
+- 📄 Experience & updates: <a href="https://linkedin.com/in/mohammad-rizwann">LinkedIn</a>  
+- ⚡ Fun fact: *Overthinker who enjoys solving hard problems*
 
+---
+
+## Featured Projects
+
+### 🔹 AI-Powered Website Monitoring System
+Detects **HTML/PDF changes**, performs semantic diffing, and generates **AI-based summaries** for admins.  
+**Tech:** Python, Cloud Run, Supabase/Postgres, Gemini API, Crawling & Hashing
+
+---
+
+### 🔹 RAG-Based Domain Chatbot
+Retrieval-augmented chatbot using embeddings, chunking, and context-aware responses for accurate QA.  
+**Tech:** FastAPI, Vector Database, LLMs, Prompt Engineering
 
 ---
 
@@ -39,10 +50,19 @@
 
 ---
 
-## GitHub Streak
+## GitHub Stats
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=mohammad-rizwan07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=mohammad-rizwan07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+
+---
+
+## Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,mongodb,redis,docker,kubernetes,gcp,tensorflow,pytorch,opencv,git" />
 </p>
 
 ---
@@ -50,13 +70,5 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-rizwan07&theme=github-dark" />
-</p>
-
----
-
-## Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,docker,kubernetes,gcp,firebase,mongodb,postgres,redis,tensorflow,pytorch,opencv,git" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-rizwan07&theme=github-dark&hide_border=true" />
 </p>
