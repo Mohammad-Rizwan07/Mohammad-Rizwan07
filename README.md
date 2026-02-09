@@ -12,7 +12,7 @@
 ## About Me
 
 - 🔭 Building **RAG-based chatbots** with optimized retrieval and semantic search  
-- 👨‍💻 All projects: <a href="https://github.com/Mohammad-Rizwan07">github.com/Mohammad-Rizwan07</a>  
+- 👨‍💻 All projects: <a href="https://github.com/Mohammad-Rizwan07">Github</a>  
 - 💬 Focus areas: **LLMs, RAG pipelines, Agentic AI, Vector Databases**  
 - 📫 Reach me at: **mdrizwan01072004@gmail.com**  
 - 📄 Experience & updates: <a href="https://linkedin.com/in/mohammad-rizwann">LinkedIn</a>  
