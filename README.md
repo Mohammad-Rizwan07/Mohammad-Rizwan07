@@ -15,12 +15,11 @@
 
 ## About Me
 
-- 🔭 Currently working on **RAG-based chatbot development**
-- 👨‍💻 Projects: <a href="https://github.com/Mohammad-Rizwan07">github.com/Mohammad-Rizwan07</a>
-- 💬 Interests: **LLMs, RAG, Agentic AI, Vector Databases**
+- 🔭 Building **RAG-based chatbots** with vector search and retrieval optimization  
+- 💬 Focus areas: **LLMs, RAG pipelines, Agentic AI, Vector Databases**
 - 📫 Reach me at: **mdrizwan01072004@gmail.com**
 - 📄 Experience: <a href="https://linkedin.com/in/mohammad-rizwann">LinkedIn</a>
-- ⚡ Fun fact: *Overthinker who enjoys solving hard problems*
+
 
 ---
 
