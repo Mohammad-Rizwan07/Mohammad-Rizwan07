@@ -43,7 +43,7 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammad-rizwan07&theme=github-dark&hide_border=true" />
+ <img src="https://streak-stats.demolab.com?user=mohammad-rizwan07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
