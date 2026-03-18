@@ -12,15 +12,13 @@
 
 ## About Me
 
-- Focused on building LLM-powered applications and smart AI systems
+- I build production-ready LLM systems with a focus on retrieval quality and system design
 
-- Deep interest in RAG system design, retrieval optimization, and ranking strategies
+- My work goes beyond basic RAG — I focus on ranking, context selection, and evaluation
 
-- Hands-on experience with end-to-end AI pipelines (data → retrieval → generation → deployment)
+- I experiment with how systems behave internally (retrieval failures, hallucinations, tradeoffs)
 
-- Exploring agentic workflows, multimodal models, and system-level improvements
-
-- Constantly learning by breaking down how systems actually work (not just using APIs)
+- Currently exploring agentic systems, multi-step reasoning, and system-level optimization
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
