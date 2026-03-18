@@ -95,6 +95,37 @@
 
 - Built scalable backend APIs for AI systems
 ---
+## Tech Stack
+- AI / LLMs
+
+    - OpenAI, Gemini, Llama, Mistral
+
+- RAG & Retrieval
+
+    - FAISS, Pinecone, ChromaDB
+    
+    - Hybrid Search, Re-ranking, MMR, RRF
+
+- Frameworks
+
+    - LangChain
+    
+    - LlamaIndex
+
+- Backend
+
+    - FastAPI
+    
+    - Node.js
+
+- Infra
+
+    - Docker
+    
+    - Kubernetes
+    
+    - Google Cloud Platform (GCP)
+---
 
 ## Connect with Me
 
