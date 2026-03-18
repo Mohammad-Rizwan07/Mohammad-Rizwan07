@@ -7,6 +7,8 @@
 </p>
 
 ---
+<br/>
+
 ## About Me
 
 - Focused on building LLM-powered applications and smart AI systems
@@ -20,7 +22,7 @@
 - Constantly learning by breaking down how systems actually work (not just using APIs)
 
 ---
-
+<br/>
 
 ## What I Actually Work On
 
@@ -75,6 +77,8 @@
    - Embedding optimization
 
 ---
+<br/>
+
 ## Cloud & Infrastructure (GCP)
 
 - Deployed applications using:
@@ -95,6 +99,8 @@
 
 - Built scalable backend APIs for AI systems
 ---
+<br/>
+
 ## Tech Stack
 - AI / LLMs
 
@@ -126,8 +132,7 @@
     
     - Google Cloud Platform (GCP)
 ---
-
----
+<br/>
 
 ##  Connect With Me
 
@@ -157,6 +162,7 @@
 
 
 ---
+<br/>
 
 ## Tools & Technologies
 
@@ -168,11 +174,13 @@
 
 
 ---
+<br/>
 
 ## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-rizwan07&theme=github-dark&hide_border=true" />
 </p>
+<br/>
 
 > I build AI systems where retrieval, ranking, and reasoning work together — not just prompt engineering.
