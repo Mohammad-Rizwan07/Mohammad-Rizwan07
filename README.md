@@ -2,13 +2,10 @@
   <b>Hello, I am Mohammad Rizwan</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-
-<h3 align="center">
-  Generative AI Developer | LLMs • RAG • Agentic AI • Production Systems
-</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+Engineer;RAG+Systems+Builder;Agentic+AI+Explorer&center=true&width=500&height=50">
+</p>
 ---
-
 ## About Me
 
 - 🔭 Building **RAG-based chatbots** with optimized retrieval and semantic search  
