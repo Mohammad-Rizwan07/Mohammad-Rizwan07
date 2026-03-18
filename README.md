@@ -20,14 +20,7 @@
 - Constantly learning by breaking down how systems actually work (not just using APIs)
 
 ---
-##  AI Stack
 
-- LLMs: OpenAI, Llama, Mistral
-- RAG: FAISS, Pinecone, Weaviate
-- Frameworks: LangChain, LlamaIndex
-- Backend: FastAPI, Node.js
-- Infra: Docker, Kubernetes, GCP
----
 
 ## What I Actually Work On
 
