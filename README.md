@@ -158,6 +158,9 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,mongodb,redis,docker,kubernetes,gcp,tensorflow,pytorch,opencv,git" />
 </p>
 
+
+
+
 ---
 
 ## GitHub Activity
@@ -165,3 +168,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-rizwan07&theme=github-dark&hide_border=true" />
 </p>
+
+
+> ### **I don’t just use AI tools — I try to understand how they work, optimize them, and build systems that actually scale.**
