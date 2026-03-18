@@ -61,23 +61,23 @@
 
 - Built multi-model RAG pipelines for improved answer quality
 
-🧠 Vector & Embeddings
+### Vector & Embeddings
 
-Worked with:
+- Worked with:
 
-ChromaDB
+    - ChromaDB
+    
+    - Pinecone
 
-Pinecone
+- Used Google embedding models (Vertex AI / Gemini embeddings)
 
-Used Google embedding models (Vertex AI / Gemini embeddings)
+- Focused on:
 
-Focused on:
-
-Semantic search
-
-Similarity detection
-
-Embedding optimization
+   - Semantic search
+    
+   - Similarity detection
+    
+   - Embedding optimization
 
 ---
 
