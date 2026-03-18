@@ -20,19 +20,6 @@
 
 ---
 
-## Featured Projects
-
-### 🔹 AI-Powered Website Monitoring System
-Detects **HTML/PDF changes**, performs semantic diffing, and generates **AI-based summaries** for admins.  
-**Tech:** Python, Cloud Run, Supabase/Postgres, Gemini API, Crawling & Hashing
-
----
-
-### 🔹 RAG-Based Domain Chatbot
-Retrieval-augmented chatbot using embeddings, chunking, and context-aware responses for accurate QA.  
-**Tech:** FastAPI, Vector Database, LLMs, Prompt Engineering
-
----
 
 ## Connect with Me
 
