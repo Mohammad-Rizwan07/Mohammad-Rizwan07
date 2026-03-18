@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+Engineer;RAG+Systems+Builder;Agentic+AI+Explorer&center=true&width=500&height=50">
 </p>
+
 ---
 ## About Me
 
