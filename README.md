@@ -19,7 +19,14 @@
 - ⚡ Fun fact: *Overthinker who enjoys solving hard problems*
 
 ---
+## ⚙️ AI Stack
 
+- LLMs: OpenAI, Llama, Mistral
+- RAG: FAISS, Pinecone, Weaviate
+- Frameworks: LangChain, LlamaIndex
+- Backend: FastAPI, Node.js
+- Infra: Docker, Kubernetes, GCP
+---
 
 ## Connect with Me
 
