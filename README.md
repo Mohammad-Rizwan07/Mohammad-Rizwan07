@@ -9,12 +9,15 @@
 ---
 ## About Me
 
-- 🔭 Building **RAG-based chatbots** with optimized retrieval and semantic search  
-- 👨‍💻 All projects: <a href="https://github.com/Mohammad-Rizwan07?tab=repositories">Github</a>  
-- 💬 Focus areas: **LLMs, RAG pipelines, Agentic AI, Vector Databases**  
-- 📫 Reach me at: **mdrizwan01072004@gmail.com**  
-- 📄 Experience & updates: <a href="https://linkedin.com/in/mohammad-rizwann">LinkedIn</a>  
-- ⚡ Fun fact: *Overthinker who enjoys solving hard problems*
+- Focused on building LLM-powered applications and smart AI systems
+
+- Deep interest in RAG system design, retrieval optimization, and ranking strategies
+
+- Hands-on experience with end-to-end AI pipelines (data → retrieval → generation → deployment)
+
+- Exploring agentic workflows, multimodal models, and system-level improvements
+
+- Constantly learning by breaking down how systems actually work (not just using APIs)
 
 ---
 ## ⚙️ AI Stack
