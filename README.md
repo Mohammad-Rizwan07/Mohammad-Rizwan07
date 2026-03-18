@@ -20,13 +20,65 @@
 - Constantly learning by breaking down how systems actually work (not just using APIs)
 
 ---
-## ⚙️ AI Stack
+##  AI Stack
 
 - LLMs: OpenAI, Llama, Mistral
 - RAG: FAISS, Pinecone, Weaviate
 - Frameworks: LangChain, LlamaIndex
 - Backend: FastAPI, Node.js
 - Infra: Docker, Kubernetes, GCP
+---
+
+## What I Actually Work On
+
+### LLM Applications
+
+- Built multiple chatbots using LLM APIs
+
+- Integrated Gemini, OpenAI, and open-source models (Llama, Mistral)
+
+- Worked with multimodal capabilities (text + image understanding)
+
+### RAG Systems 
+
+- Designed advanced retrieval pipelines, including:
+
+ Multi-query retrieval
+
+Hybrid search (BM25 + vector search)
+
+Semantic similarity & cosine similarity tuning
+
+- Experimented with:
+
+MMR (Maximum Marginal Relevance)
+
+RRF (Reciprocal Rank Fusion)
+
+Re-ranking (Cohere, etc.)
+
+- Applied multiple chunking strategies for better context retrieval
+
+- Built multi-model RAG pipelines for improved answer quality
+
+🧠 Vector & Embeddings
+
+Worked with:
+
+ChromaDB
+
+Pinecone
+
+Used Google embedding models (Vertex AI / Gemini embeddings)
+
+Focused on:
+
+Semantic search
+
+Similarity detection
+
+Embedding optimization
+
 ---
 
 ## Connect with Me
