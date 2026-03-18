@@ -141,15 +141,15 @@
 
 <p align="center">
   <a href="mailto:mdrizwan01072004@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohammad-rizwann">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mohammad-Rizwan07">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
