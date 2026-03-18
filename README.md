@@ -127,19 +127,25 @@
     - Google Cloud Platform (GCP)
 ---
 
-## Connect with Me
+---
 
-<p align="left">
+##  Connect With Me
+
+<p align="center">
   <a href="mailto:mdrizwan01072004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohammad-rizwann">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Mohammad-Rizwan07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+---
 
 ---
 
