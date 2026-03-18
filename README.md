@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+Engineer;RAG+Systems+Builder;Agentic+AI+Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;RAG+Systems+Builder;Agentic+AI+Explorer&center=true&width=500&height=50">
 </p>
 
 <p align="center">
