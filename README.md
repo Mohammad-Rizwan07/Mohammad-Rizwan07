@@ -158,7 +158,7 @@
 
 ---
 
-## Languages & Tools
+## Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,mongodb,redis,docker,kubernetes,gcp,tensorflow,pytorch,opencv,git" />
