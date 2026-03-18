@@ -43,19 +43,19 @@
 
 - Designed advanced retrieval pipelines, including:
 
- Multi-query retrieval
-
-Hybrid search (BM25 + vector search)
-
-Semantic similarity & cosine similarity tuning
+  - Multi-query retrieval
+  
+  - Hybrid search (BM25 + vector search)
+  
+  - Semantic similarity & cosine similarity tuning
 
 - Experimented with:
 
-MMR (Maximum Marginal Relevance)
-
-RRF (Reciprocal Rank Fusion)
-
-Re-ranking (Cohere, etc.)
+   - MMR (Maximum Marginal Relevance)
+    
+   - RRF (Reciprocal Rank Fusion)
+    
+   - Re-ranking (Cohere, etc.)
 
 - Applied multiple chunking strategies for better context retrieval
 
