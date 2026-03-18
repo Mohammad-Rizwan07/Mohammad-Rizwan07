@@ -22,8 +22,9 @@
 
 - Constantly learning by breaking down how systems actually work (not just using APIs)
 
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## What I Actually Work On
 
@@ -77,8 +78,9 @@
     
    - Embedding optimization
 
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## Cloud & Infrastructure (GCP)
 
@@ -99,8 +101,9 @@
     - Gemini API Keys (gemini-2.5-flash, gemini-2.5-pro, gemini-3.0-pro-preview)
 
 - Built scalable backend APIs for AI systems
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## Tech Stack
 - AI / LLMs
@@ -132,8 +135,9 @@
     - Kubernetes
     
     - Google Cloud Platform (GCP)
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ##  Connect With Me
 
@@ -151,19 +155,18 @@
   </a>
 </p>
 
----
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohammad-rizwan07&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
-
-
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## Tools & Technologies
 
@@ -171,11 +174,9 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,postgres,mongodb,redis,docker,kubernetes,gcp,tensorflow,pytorch,opencv,git,github,css,bash,fastapi,flask,html,npm,pkl,pnpm,supabase,sklearn,vercel,vscode,vite" />
 </p>
 
-
-
-
----
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ## GitHub Activity
 
