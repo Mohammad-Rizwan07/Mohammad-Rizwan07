@@ -32,6 +32,7 @@
 
 - Worked with multimodal capabilities (text + image understanding)
 
+
 ### RAG Systems 
 
 - Designed advanced retrieval pipelines, including:
@@ -54,6 +55,7 @@
 
 - Built multi-model RAG pipelines for improved answer quality
 
+
 ### Vector & Embeddings
 
 - Worked with:
@@ -72,6 +74,26 @@
     
    - Embedding optimization
 
+---
+## Cloud & Infrastructure (GCP)
+
+- Deployed applications using:
+
+    - Google Cloud Run
+    
+    - Cloud Build (CI/CD)
+
+- Used:
+
+    - Pub/Sub (event-driven systems)
+    
+    - Secret Manager (secure key handling)
+    
+    - Vertex AI (models + embeddings)
+ 
+    - Gemini API Keys (gemini-2.5-flash, gemini-2.5-pro, gemini-3.0-pro-preview)
+
+- Built scalable backend APIs for AI systems
 ---
 
 ## Connect with Me
