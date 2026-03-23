@@ -183,9 +183,7 @@
 ##  GitHub Activity
 
 <p align="center">
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-rizwan07&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=C,C%2B%2B" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-rizwan07&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
